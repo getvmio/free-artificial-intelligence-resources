@@ -1,9 +1,5 @@
 # Artificial Intelligence Free Resources
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 🧠 Embark on your Artificial Intelligence journey with GetVM's AI Explorer! This repository is your gateway to cutting-edge AI technologies, featuring a rich collection of free resources, online learning tools, and an interactive Playground. Ideal for beginners and experts alike who want to stay at the forefront of AI innovation.
 
 ## Resources
